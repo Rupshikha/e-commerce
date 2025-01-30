@@ -1,0 +1,55 @@
+export const Products = [
+  {
+    id: "123",
+    image: "product1",
+    description: "description1",
+    price: 28,
+    review: "review1",
+    quantity: 3,
+    showItem: false,
+    initalVal: 1,
+  },
+
+  {
+    id: "124",
+    image: "product2",
+    description: "description3",
+    price: 30,
+    review: "review2",
+    quantity: 3,
+    showItem: false,
+    initalVal: 1,
+  },
+
+  {
+    id: "125",
+    image: "product3",
+    description: "description3",
+    price: 40,
+    review: "review3",
+    quantity: 3,
+    showItem: false,
+    initalVal: 1,
+  },
+
+  {
+    id: "126",
+    image: "product4",
+    description: "description4",
+    price: 50,
+    review: "review4",
+    quantity: 3,
+    showItem: false,
+    initalVal: 1,
+  },
+  {
+    id: "127",
+    image: "product5",
+    description: "description5",
+    price: 60,
+    review: "review5",
+    quantity: 3,
+    showItem: false,
+    initalVal: 1,
+  },
+];
